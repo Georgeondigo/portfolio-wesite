@@ -1,0 +1,21 @@
+
+.picture{
+    border-radius: 50%;
+   
+}
+
+.nav-pills{
+    font-weight: 200;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.nav-item:hover{
+    background-color:rgb(232, 236, 238);
+    transform: scale(1);
+    border-radius: 7%;
+}
+
